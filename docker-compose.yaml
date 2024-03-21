@@ -4,4 +4,4 @@ services:
   web:
     image: "kingjosh123/node-app-test-new:latest"
     ports:
-      - "8000:8000"
+      - "8002:8002"
